@@ -1,0 +1,1 @@
+export { MiComponenteConLit } from './src/MiComponenteConLit.js';
